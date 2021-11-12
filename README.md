@@ -10,6 +10,9 @@ From the root directory in the command prompt type
 "node index.js"
 
 
+
 To run unit tests:
 
-From the root directory in the command prompt type "npm test"
+From the root directory in the command prompt type 
+
+"npm test"
