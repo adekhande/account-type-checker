@@ -3,7 +3,9 @@ This is a JavaScript function which categorise the array based on the way that t
 
 To run the application:
 
-From the root directory in the command prompt type "node index.js"
+From the root directory in the command prompt type 
+"npm install"
+"node index.js"
 
 To run unit tests:
 
